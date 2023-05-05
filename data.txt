@@ -1,0 +1,3 @@
+name : "Nebu"
+edad : 12
+Color favorito 
